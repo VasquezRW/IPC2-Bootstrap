@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<style media="screen">
+  .cabecera{
+    background: white;
+    position:relative;
+    margin: auto;
+    width: auto;
+    height: auto;
+    border: 5px solid white;
+    border-radius: 5px;
+  }
+  .datos{
+    width: auto;
+    height: auto;
+    background: white;
+    border: 5px solid black;
+    border-radius: 5px;
+    margin: auto;
+    padding: 15px;
+    max-width: auto;
+    max-height: auto;
+  }
+  h1.titulo{
+    font-family: 'Kaushan Script', cursive;
+  }
+  h2.titulo{
+    font-family: 'Kaushan Script', cursive;
+  }
+  .myform{
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 1rem;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    width: 100%;
+    pointer-events: auto;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: 1.1rem;
+    outline: 0;
+    max-width: 500px;
+   }
+   body{
+    padding-top:4.2rem;
+		padding-bottom:4.2rem;
+		background:rgba(0, 0, 0, 0.76);
+   }
+   a{
+    text-decoration:none !important;
+    }
+   h1,h2,h3{
+    font-family: 'Kaushan Script', cursive;
+    }
+
+</style>
+</html>
